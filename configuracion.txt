@@ -1,1 +1,5 @@
-C:\Users\Alvaro\Desktop\1º DAM
+<<<<<<< HEAD
+C:\Users\Alvaro2\Desktop\1º DAM\Programacion
+=======
+C:\Users\Alvaro2\Desktop\1º DAM\Sistemas informaticos
+>>>>>>> 859f6bd61440128f809ecd73d407f968f52f8ccb
